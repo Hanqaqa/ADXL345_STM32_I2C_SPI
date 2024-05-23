@@ -1,0 +1,6 @@
+../Core/Src/ADXL345.c:3:9:ADXL345_initialization	40	static
+../Core/Src/ADXL345.c:26:6:ADXL345_set_offset	40	static
+../Core/Src/ADXL345.c:39:19:ADXL345_get_acc_raw	40	static
+../Core/Src/ADXL345.c:52:19:ADXL345_get_acc_norm	24	static
+../Core/Src/ADXL345.c:63:6:ADXL345_print_raw	72	static
+../Core/Src/ADXL345.c:95:6:ADXL345_print_norm	80	static
